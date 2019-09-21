@@ -1,7 +1,7 @@
 Brazil Fuel Price Analysis
 ==============================
 
-An geospatial analysis of the change in fuel prices of the different regions of Brazil.
+An geospatial analysis of the change in fuel prices of the different regions of Brazil. 
 
 Project Organization
 ------------
