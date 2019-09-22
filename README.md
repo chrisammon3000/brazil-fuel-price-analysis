@@ -3,7 +3,7 @@ This project investigates 3 questions pertaining to fuel prices in Brazil. It in
 
 #### -- Project Status: [Active]
 
-## Project Intro/Objective
+## Project Objective
 The purpose of this project is to answer 3 questions:
 * How did the price change for the different regions of Brazil?
 * Within a region, which states increased their prices the most?
@@ -19,7 +19,7 @@ The purpose of this project is to answer 3 questions:
 * Python
 * Pandas, Matplotlib, Seaborn, Geopandas, jupyter
 
-## Project Description
+## Description
 The project is divided into 3 parts: 1) import and data cleaning, 2) EDA, and 3) an attempt to investigate the 3 questions. The fuel price dataset comes from the National Agency of Petroleum, Natural Gas and Bio fuels (ANP in Portuguese), which releases weekly price reports of gas/petrol, diesel and other fuels used in transportation across the country. It includes the mean value per liter, number of gas stations analyzed and other information grouped by region and state. The analysis is enriched by joining the price data with geospatial data from the Brazilian government.
 
 ## Needs of this project
