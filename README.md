@@ -1,5 +1,5 @@
 # Geospatial Analysis of Fuel Prices in Brazil
-This project gives a geospatial analysis of the change in fuel prices of the different regions of Brazil using Python, Seaborn and Geopandas. The dataset was made available through [Kaggle](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil) and also includes [public geospatial data](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/) available through public ftp from the Brazilian government.
+This project investigates 3 questions pertaining to fuel prices in Brazil. It includes EDA and geospatial analyses in the form of choropleth maps to visualize the price data by region and state. The dataset was made available through [Kaggle](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil) and also includes [public geospatial data](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/) available through public ftp from the Brazilian government.
 
 #### -- Project Status: [Active]
 
