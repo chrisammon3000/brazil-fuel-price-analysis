@@ -38,7 +38,8 @@ To project contains 3 parts: import and data cleaning, EDA, and an attempt to in
 3. Notebooks are in the [notebooks](https://github.com/gclindsey/brazil-fuel-price/tree/master/notebooks) folder.
 
 ## Featured Notebooks
-* [Initial Data Exploration](https://github.com/gclindsey/brazil-fuel-price/blob/master/notebooks/20190920-gcl-initial-exploration.ipynb) [Kaggle version]()
+* [Initial Data Exploration](https://github.com/gclindsey/brazil-fuel-price/blob/master/notebooks/20190920-gcl-initial-exploration.ipynb)
+* [Kaggle version](https://www.kaggle.com/gclindsey/geospatial-analysis-of-gas-prices-in-brazil)
 
 
 ## Contributors
