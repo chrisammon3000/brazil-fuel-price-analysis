@@ -1,7 +1,12 @@
-Brazil Fuel Price Analysis
+# Brazil Fuel Price Analysis
 ==============================
 
-An geospatial analysis of the change in fuel prices of the different regions of Brazil.
+An geospatial analysis of the change in fuel prices of the different regions of Brazil using Python, Seaborn and Geopandas.
+
+## 
+
+
+
 
 Project Organization
 ------------
