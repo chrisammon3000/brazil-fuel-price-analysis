@@ -10,8 +10,7 @@ The purpose of this project is to answer 3 questions:
 * Which states are the cheapest (or most expensive) for different types of fuels?
 
 ### Methods Used
-* EDA
-* Univariate and Multivariate Analysis
+* EDA - Univariate and Multivariate Analysis
 * Time Series
 * Data Visualization
 * Geospatial Visualization & Choropleth maps
