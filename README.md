@@ -34,7 +34,7 @@ The project is divided into 3 parts: 1) import and data cleaning, 2) EDA, and 3)
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data can be accessed here: [Kaggle: Gas Prices in Brazil](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil/downloads/gas-prices-in-brazil.zip/3) and here:
-[Instituto Brasiliero de Geografia e Estatistica, or IBGE] [website](https://www.ibge.gov.br/geociencias/downloads-geociencias.html) (for direct download through ftp copy and paste: ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2018/Brasil/BR/br_unidades_da_federacao.zip)
+[Instituto Brasiliero de Geografia e Estatistica, or IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html) (for direct download through ftp copy and paste: ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2018/Brasil/BR/br_unidades_da_federacao.zip)
 3. Notebooks are in the [notebooks](https://github.com/gclindsey/brazil-fuel-price/tree/master/notebooks) folder.
 
 ## Featured Notebooks
