@@ -18,7 +18,7 @@ The purpose of this project is to answer 3 questions:
 
 ### Technologies
 * Python
-* Pandas, Seaborn, Geopandas, jupyter
+* Pandas, Matplotlib, Seaborn, Geopandas, jupyter
 
 ## Project Description
 The project is divided into 3 parts: 1) import and data cleaning, 2) EDA, and 3) an attempt to investigate the 3 questions. The fuel price dataset comes from the National Agency of Petroleum, Natural Gas and Bio fuels (ANP in Portuguese), which releases weekly price reports of gas/petrol, diesel and other fuels used in transportation across the country. It includes the mean value per liter, number of gas stations analyzed and other information grouped by region and state. The analysis is enriched by joining the price data with geospatial data from the Brazilian government.
@@ -26,7 +26,7 @@ The project is divided into 3 parts: 1) import and data cleaning, 2) EDA, and 3)
 ## Needs of this project
 
 - Convert code into functions for data processing, cleaning and exploration
-- Create src modules
+- Create src modules for reproducibility
 - Include quantitative analysis to augment visualizations
 - AWS cloud integration for faster rendering
 
