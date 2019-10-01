@@ -1,6 +1,11 @@
+# Import data science libraries
 import numpy as np
 import pandas as pd
 import os
+
+# Import geospaitial libraries
+import geopandas as gpd
+from shapely.geometry import Point
 
 # Read data
 print("Reading data...")
@@ -98,4 +103,6 @@ df.drop(['Unnamed:_0', 'Last_day_of_analyses_of_week'], axis = 1, inplace=True)
 
 # Save clean dataset
 print("Saving clean dataset...")
-df.to_csv('./data/interim/fuel_in_brazil_clean.csv')
+df.to_csv('./data/interim/brazilfuel.csv')
+
+print("Finished.")
