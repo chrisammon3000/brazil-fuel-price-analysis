@@ -25,10 +25,7 @@ The project is divided into 3 parts: 1) import and data cleaning, 2) EDA, and 3)
 ## Needs of this project
 
 - Include quantitative analysis to augment visualizations
-- Convert code into functions for data processing, cleaning and exploration
-- Export figures as well as individual maps with labels
-- Create src modules for reproducibility
-- AWS cloud integration for faster rendering
+- Create modules for reproducibility
 
 ## Getting Started
 
