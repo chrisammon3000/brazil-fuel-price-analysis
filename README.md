@@ -22,10 +22,10 @@ The purpose of this analysis is to answer 3 questions:
 ## Description
 The fuel price dataset comes from the National Agency of Petroleum, Natural Gas and Bio fuels (ANP in Portuguese), which releases weekly price reports of gas/petrol, diesel and other fuels used in transportation across the country. It includes the mean value per liter, number of gas stations analyzed and other information grouped by region and state. The analysis is enriched by joining the price data with geospatial data from the Brazilian government.
 
-The project is divided into 3 parts: 
-1) import and data cleaning
-2) EDA or exploratory data analysis 
-3) Geospatial analysis to investigate the 3 questions. 
+The project is divided into 3 parts each with it's own notebook: 
+* *0.1-clean-data.ipynb* - Import and data cleaning
+* *0.2-eda.ipynb* - EDA or exploratory data analysis 
+* *0.3-geospatial-analysis.ipynb* - Geospatial analysis to investigate the 3 questions
 
 ## Needs of this project
 - Include quantitative analysis to augment visualizations
