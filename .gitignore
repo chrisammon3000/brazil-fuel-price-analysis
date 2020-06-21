@@ -90,3 +90,8 @@ target/
 
 # Exclude README template
 Project-README-template.md
+
+notebooks/20190920-gcl-initial-exploration.*
+reports/
+scripts/
+src/
