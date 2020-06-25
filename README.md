@@ -24,7 +24,7 @@ Fuel Prices:
 * Original data source: http://www.anp.gov.br/precos-e-defesa-da-concorrencia/precos/levantamento-de-precos/serie-historica-do-levantamento-de-precos-e-de-margens-de-comercializacao-de-combustiveis 
 
 Shapefiles:
-* ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/
+* [ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/)
 
 ## Featured Notebooks
 * `0.1-import-clean-eda.ipynb` --> [view notebook](https://github.com/gclindsey/brazil-fuel-price/blob/master/notebooks/0.1-import-clean-eda.ipynb)
