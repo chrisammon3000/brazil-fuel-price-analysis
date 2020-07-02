@@ -1,3 +1,10 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 #  Survey of fuel prices in Brazil: Geospatial Analysis
 This project includes EDA and geospatial analyses in the form of choropleth maps to visualize fuel price data from the [*Agência Nacional do Petróleo, Gás Natural e Biocombustíveis*](http://www.anp.gov.br/) in Brazil. The dataset was made available through [Kaggle](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil) and incorporates [public geospatial data](ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2016/Brasil/BR/) available through public ftp from the Brazilian government.
 
@@ -41,6 +48,24 @@ Shapefiles:
 5. Figures are saved to the `figures` directory
 
 
-## Contributors
+## Authors
 
-**Primary (Contact) : [Gregory Lindsey](https://github.com/gclindsey)**
+* **Gregory Lindsey** - [gclindsey](https://github.com/gclindsey)
+
+## License
+
+This project is licensed under the MIT License.
+
+[contributors-shield]: https://img.shields.io/github/contributors/gclindsey/brazil-fuel-price-analysis.svg?style=flat-square
+[contributors-url]: https://github.com/gclindsey/brazil-fuel-price-analysis/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gclindsey/brazil-fuel-price-analysis.svg?style=flat-square
+[forks-url]: https://github.com/gclindsey/brazil-fuel-price-analysis/network/members
+[stars-shield]: https://img.shields.io/github/stars/gclindsey/brazil-fuel-price-analysis.svg?style=flat-square
+[stars-url]: https://github.com/gclindsey/brazil-fuel-price-analysis/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gclindsey/brazil-fuel-price-analysis.svg?style=flat-square
+[issues-url]: https://github.com/gclindsey/brazil-fuel-price-analysis/issues
+[license-shield]: https://img.shields.io/github/license/gclindsey/brazil-fuel-price-analysis.svg?style=flat-square
+[license-url]: https://github.com/gclindsey/brazil-fuel-price-analysis/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/gregory-lindsey/
+[product-screenshot]: images/screenshot.png
